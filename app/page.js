@@ -1,6 +1,4 @@
-import Image from "next/image";
 import styles from "./page.module.css";
-import brazil from "../public/brazil.svg"
 
 export default function Home() {
   return (
