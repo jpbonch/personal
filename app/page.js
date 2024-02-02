@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <h1 className={styles.name}>João Bonchristiano</h1>
-      <p className={styles.text}>I'm a second-year Computer Science major at <a className={styles.clickable} href="https://www.gatech.edu/">Georgia Tech</a> from Brazil, <br></br>
+      <p className={styles.text}>I'm a second-year Computer Science major at <a className={styles.clickable} href="https://www.gatech.edu/">Georgia Tech</a> from Brazil,
       concentrating in systems/architecture and computer networks.
         <br></br>
          <br></br>My interests lie in processor design, operating systems, as well as quantitative finance. 
