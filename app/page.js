@@ -8,7 +8,7 @@ export default function Home() {
       concentrating in systems/architecture and computer networks.
         <br></br>
          <br></br>My interests lie in processor design, operating systems, as well as quantitative finance. 
-         Previously, I've worked at <a className={styles.clickable} href="https://www.microsoft.com/en-us/">Microsoft</a>.</p>
+         Previously, I've worked at <a className={styles.clickable} href="https://www.microsoft.com/en-us/">Microsoft</a> and <a className={styles.clickable} href="https://www.citadel.com">Citadel</a>.</p>
          <hr></hr>
       <div className={styles.links}>
         <a className={styles.link} href="Resume.pdf">resume</a>
