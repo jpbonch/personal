@@ -5,7 +5,7 @@ export default function Home() {
     <main className={styles.main}>
       <h1 className={styles.name}>João Bonchristiano</h1>
       <p className={styles.text}>I'm a fourth-year Computer Science major at <a className={styles.clickable} href="https://www.gatech.edu/">Georgia Tech</a> from Brazil,
-      concentrating in systems/architecture and computer networks.
+      concentrating in computer architecture and artificial intelligence.
         <br></br>
          <br></br>My interests lie in processor design, operating systems, as well as quantitative finance. 
          Previously, I've worked at <a className={styles.clickable} href="https://www.microsoft.com/en-us/">Microsoft</a> and <a className={styles.clickable} href="https://www.citadel.com">Citadel</a>.</p>
